@@ -1,0 +1,38 @@
+/* You may use the following selectors, but it's not required. */
+
+body {
+	font-family: InaiMathi;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#header {
+	font-size: 30px;
+	font-weight: 700;
+	padding: 20px 20px 2px 20px;
+}
+
+#subheader {
+	font-style: italic;
+	padding: 0px 20px 20px 20px; 
+}
+
+a {
+	text-decoration: none;
+}
+
+#link {
+	width: 200px;
+	background-color: #8E44AD;
+	font-color: #fff;
+	font-weight: bold;
+	padding: 20px 15px;
+	margin: 35px auto 20px;
+}
+
+#thumbnail img {
+	width: 200px;
+	padding: : 20px 15px;
+	margin: 35px auto 20px;
+
+}
